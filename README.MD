@@ -1,4 +1,6 @@
-# This is a host file to block spotify ads. this host file is a data lake from many different sources. 
+# a host file
+[Here a host file](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) that blocks ads and trackers in Spotify
+And yes it works in 2024!
 
 ## Sources: 
 https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
