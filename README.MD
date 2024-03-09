@@ -10,7 +10,4 @@ https://gist.github.com/shokoylele/8f4160a102480471cb946fbd800bc86a
 and many more...
 
 ## IMPORTANT:
-Yes I am aware that the web app from spotify wont work... if you want to use that, take ```open.spotify``` out of your list.
-
-
-if you want to help to or have some problem, open an issue.
+If you want to help to or have some problem, open an issue!
