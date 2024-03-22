@@ -45,4 +45,7 @@ If you encounter any issues with the hosts file or if you'd like to contribute t
 
 Download the hosts file and begin your uninterrupted Spotify journey today!
 
-> (and yes this is AI-Generated. I am to lazy to write a Readme myself. (But it is correct))
+
+
+
+This is AI-Generated
