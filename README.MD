@@ -13,7 +13,7 @@ Follow these steps to apply the hosts file to your system:
 1. **Download the Hosts File:** Click on the link provided to download the hosts file to your device.
 2. **Locate the Hosts File:** The hosts file is usually located at:
    - **Windows:** `C:\Windows\System32\drivers\etc\hosts`
-   - **Mac/Linux:** `/etc/hosts`
+   - **Mac/Linux:** `(mac: private)/etc/hosts` 
 3. **Open the Hosts File:** Use a text editor with administrative privileges to open the hosts file.
 4. **Add Hosts Entries:** Copy the contents of the downloaded hosts file and paste them at the end of the hosts file.
 5. **Save Changes:** Save the hosts file and close the text editor.
