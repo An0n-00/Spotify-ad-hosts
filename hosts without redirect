@@ -172,6 +172,7 @@
 170.243.201.35.bc.googleusercontent.com
 172.148.240.35.bc.googleusercontent.com
 172.217.20.98
+17.224.186.35.bc.googleusercontent.com
 173.96.87.34.bc.googleusercontent.com
 1742177.fls.doubleclick.net
 176.72.185.35.bc.googleusercontent.com
@@ -189,6 +190,8 @@
 19.video-ak.cdn.spotify.com
 191.10.244.35.bc.googleusercontent.com
 191.191.238.35.bc.googleusercontent.com
+optimizationguide-pa.googleapis.com
+34.224.186.35.bc.googleusercontent.com
 192.121.140.177
 194.18.245.35.bc.googleusercontent.com
 194.233.228.35.bc.googleusercontent.com
@@ -268,12 +271,12 @@
 249.12.67.34.bc.googleusercontent.com
 2499034.fls.doubleclick.net
 25.26.196.104.bc.googleusercontent.com
-25.224.186.35.bc.googleusercontent.com
 25.video-ak.cdn.spotify.com
 250.255.95.34.bc.googleusercontent.com
 250.75.96.34.bc.googleusercontent.com
 250.77.221.35.bc.googleusercontent.com
 2507573.fls.doubleclick.net
+25.224.186.35.bc.googleusercontent.com
 254.166.199.35.bc.googleusercontent.com
 2542116.fls.doubleclick.net
 255.211.190.35.bc.googleusercontent.com
@@ -297,7 +300,6 @@
 32.video-ak.cdn.spotify.com
 3276817.fls.doubleclick.net
 33.video-ak.cdn.spotify.com
-34.224.186.35.bc.googleusercontent.com
 34.video-ak.cdn.spotify.com
 35.186.224.53
 35.video-ak.cdn.spotify.com
@@ -468,6 +470,7 @@ a0.video-ak.cdn.spotify.com
 a1.video-ak.cdn.spotify.com
 a1197.dscc.akamai.net
 a1294.w20.akamai.net
+a1520.dscc.akamai.net
 a1599.g.akamai.net
 a1767.g.akamai.net
 a1843.g.akamai.net
@@ -2622,7 +2625,6 @@ o-o---preferred---sn-o097zne7---v9---lscache1.c.2mdn.net
 o-o---preferred---sn-o097znez---v15---lscache3.c.2mdn.net
 o-o---preferred---sn-p5q7yne7---v23---cache.c.googlesyndication.com
 ops-prod.us-west-2.k8s.ops.tune.com
-optimizationguide-pa.googleapis.com
 optimize.doubleclick.net
 ord.comscore.com
 orientation.internal.intercom.io
