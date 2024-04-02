@@ -296,6 +296,7 @@
 0.0.0.0    32.video-ak.cdn.spotify.com
 0.0.0.0    3276817.fls.doubleclick.net
 0.0.0.0    33.video-ak.cdn.spotify.com
+0.0.0.0    34.224.186.35.bc.googleusercontent.com
 0.0.0.0    34.video-ak.cdn.spotify.com
 0.0.0.0    35.186.224.53
 0.0.0.0    35.video-ak.cdn.spotify.com
@@ -2620,6 +2621,7 @@
 0.0.0.0    o-o---preferred---sn-o097znez---v15---lscache3.c.2mdn.net
 0.0.0.0    o-o---preferred---sn-p5q7yne7---v23---cache.c.googlesyndication.com
 0.0.0.0    ops-prod.us-west-2.k8s.ops.tune.com
+0.0.0.0    optimizationguide-pa.googleapis.com
 0.0.0.0    optimize.doubleclick.net
 0.0.0.0    ord.comscore.com
 0.0.0.0    orientation.internal.intercom.io
