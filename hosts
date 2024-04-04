@@ -1,11 +1,12 @@
-#Spotify-ad-hosts Version: 7d9667c
-#      _______..______     ______   .___________. __   ___________    ____         ___       _______         __    __    ______        _______.___________.    _______.
-#     /       ||   _  \   /  __  \  |           ||  | |   ____\   \  /   /        /   \     |       \       |  |  |  |  /  __  \      /       |           |   /       |
-#    |   (----`|  |_)  | |  |  |  | `---|  |----`|  | |  |__   \   \/   / ______ /  ^  \    |  .--.  |______|  |__|  | |  |  |  |    |   (----`---|  |----`  |   (----`
-#     \   \    |   ___/  |  |  |  |     |  |     |  | |   __|   \_    _/ |______/  /_\  \   |  |  |  |______|   __   | |  |  |  |     \   \       |  |        \   \    
-# .----)   |   |  |      |  `--'  |     |  |     |  | |  |        |  |         /  _____  \  |  '--'  |      |  |  |  | |  `--'  | .----)   |      |  |    .----)   |   
-# |_______/    | _|       \______/      |__|     |__| |__|        |__|        /__/     \__\ |_______/       |__|  |__|  \______/  |_______/       |__|    |_______/    
-#                                                                                                                                                                      
+#Spotify-ad-hosts Version: c26326a
+#   _____             _   _  __                     _   _    _           _       
+#  / ____|           | | (_)/ _|           /\      | | | |  | |         | |      
+# | (___  _ __   ___ | |_ _| |_ _   _     /  \   __| | | |__| | ___  ___| |_ ___ 
+#  \___ \| '_ \ / _ \| __| |  _| | | |   / /\ \ / _` | |  __  |/ _ \/ __| __/ __|
+#  ____) | |_) | (_) | |_| | | | |_| |  / ____ \ (_| | | |  | | (_) \__ \ |_\__ \
+# |_____/| .__/ \___/ \__|_|_|  \__, | /_/    \_\__,_| |_|  |_|\___/|___/\__|___/
+#        | |                     __/ |                                           
+#        |_|                    |___/                                                                                                                                                                                                                 
 # https://www.github.com/An0n-00/spotify-ad-hosts
 ###############################################################################################################
 # Spotify's Anti-Adveritsing blocking servers, tricking services to stop music services (DONT BLOCK THESE!):  #
@@ -22,6 +23,8 @@
 # dns4.p07.nsone.net                                                                                          #
 # audio-sp-fra2.pscdn.co                                                                                      #
 # 104.199.65.11                                                                                               #
+# a1520.dscc.akamai.net <-- I am not so sure about this one. It quite surely sends ads but it is needed for   #
+# music and pictures.                                                                                         #
 #                                                                                                             #
 ###############################################################################################################
 # Don't block entries below, they are needed for Spotify to be fully functional.                              #
@@ -42,6 +45,7 @@
 # spclient.spotify.com                                                                                        #
 # sto3.spotify.com                                                                                            #
 # wg.spotify.com <-- (*) Breaks entire app                                                                    #
+# scdnco.spotify.map.fastly.net <-- Stops loading music and pictures                                          #
 # geo3.ggpht.com <-- Just dont block!                                                                         #
 # googlehosted.l.googleusercontent.com <-- Just dont block!                                                   #
 # spclient.wg.spotify.com <-- Dont block. Spotify Desktop app will stop working                               #
@@ -480,7 +484,6 @@
 0.0.0.0    a1.video-ak.cdn.spotify.com
 0.0.0.0    a1197.dscc.akamai.net
 0.0.0.0    a1294.w20.akamai.net
-0.0.0.0    a1520.dscc.akamai.net
 0.0.0.0    a1599.g.akamai.net
 0.0.0.0    a1767.g.akamai.net
 0.0.0.0    a1813.dscd.akamai.net
@@ -1357,6 +1360,7 @@
 0.0.0.0    e.crashlytics.com
 0.0.0.0    e0.video-ak.cdn.spotify.com
 0.0.0.0    e1.video-ak.cdn.spotify.com
+0.0.0.0    e11271.dscg.akamaiedge.net
 0.0.0.0    e2.video-ak.cdn.spotify.com
 0.0.0.0    e28578.d.akamaiedge.net
 0.0.0.0    e3.video-ak.cdn.spotify.com
@@ -3901,4 +3905,4 @@
 0.0.0.0    zayit.lon2.spotify.com
 0.0.0.0    zhcn.admob.com
 0.0.0.0    zlink.app.spotify.com
-#Spotify-ad-hosts Version: 7d9667c
+#Spotify-ad-hosts Version: c26326a

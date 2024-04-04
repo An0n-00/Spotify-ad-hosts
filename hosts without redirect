@@ -473,7 +473,6 @@ a0.video-ak.cdn.spotify.com
 a1.video-ak.cdn.spotify.com
 a1197.dscc.akamai.net
 a1294.w20.akamai.net
-a1520.dscc.akamai.net
 a1599.g.akamai.net
 a1767.g.akamai.net
 a1813.dscd.akamai.net
@@ -1350,6 +1349,7 @@ e.admob.com
 e.crashlytics.com
 e0.video-ak.cdn.spotify.com
 e1.video-ak.cdn.spotify.com
+e11271.dscg.akamaiedge.net
 e2.video-ak.cdn.spotify.com
 e28578.d.akamaiedge.net
 e3.video-ak.cdn.spotify.com
@@ -3283,6 +3283,7 @@ sb.scorecardresearch.com
 sb.voicefive.com
 sc1.admob.com
 sc9.admob.com
+scdnco.spotify.map.fastly.net
 sdcdn.com
 search.spotxchange.com
 secure.adnxs.com
