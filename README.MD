@@ -1,62 +1,32 @@
-# Spotify Ad and Tracker Blocking Hosts File (2024 Edition)
+# Spotify Ad and Tracker Blocking Hosts (Deprecated)
 
-Welcome to the Spotify ad and tracker blocking hosts file for 2024! Say goodbye to pesky interruptions and data tracking while you enjoy your favorite tunes on Spotify. The hosts file is meticulously curated from various sources to ensure ad and tracker blocking.
+> [!WARNING]  
+> Important Notice: This repository is no longer maintained and the Spotify ad-blocking method described here is no longer functional.
 
-## What Does This Hosts File Do?
 
-This hosts file blocks ads and trackers within the Spotify application, providing you with an uninterrupted listening experience while also enhancing your privacy by preventing tracking.
+## Alternative Solution
 
-## How to Use the Hosts File
+For those seeking to block ads on Spotify, I recommend using [SpotifyAB](https://www.github.com/An0n-00/SpotifyAB). This repository provides an updated and effective method for blocking ads on Spotify by injecting JavaScript code into the Spotify desktop app. More information and instructions can be found on the [SpotifyAB](https://www.github.com/An0n-00/SpotifyAB) repository.
 
-Follow these steps to apply the hosts file to your system:
+---
 
-0. **_Recomended:_** Close Spotify, if open.
-1. **Download the Hosts File:** Click on [here](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) to download the hosts file to your device.
-2. **Locate the Hosts File:** The hosts file is usually located at:
-   - **Windows:** `C:\Windows\System32\drivers\etc\hosts`
-   - **Mac/Linux:** `(mac: private)/etc/hosts`
-3. **Open the Hosts File:** Use a text editor with administrative privileges to open the hosts file.
-4. **Add Hosts Entries:** Copy the contents of the downloaded hosts file and paste them at the end of the hosts file.
-5. **Save Changes:** Save the hosts file and close the text editor.
-6. **Flush DNS Cache (Optional):** To ensure the changes take effect, you may need to flush your DNS cache. Use the appropriate command based on your operating system:
-   - **Windows:** Open Command Prompt as administrator and run `ipconfig /flushdns`.
-   - **Mac/Linux:** Open Terminal and run `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`.
-7. **Restart Spotify:** Close and reopen the Spotify application to apply the changes.
+## So, what is this repository about?
 
-## Sources
+This repository was created to provide a simple and effective method for blocking ads and trackers on Spotify. By modifying your system's hosts file, you can redirect Spotify ad servers to prevent ads from being served during music playback. However, because Spotify has implemented new ad-serving techniques, this method is no longer effective in blocking ads. This repository is now deprecated and no longer maintained. A good thing though, is that the hosts file blocks trackers and other unwanted connections.
 
-The hosts file is compiled from multiple sources (and updated by me), including:
+### How to Block Trackers on Spotify
 
-- Various GitHub Gists (links provided below)
-  - [teomaragakis](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2)
-  - [Shujito](https://gist.github.com/Shujito/b7a8f8f971b22f49b4313d7d3e8e6931)
-  - [rifkyekayama](https://gist.github.com/rifkyekayama/f7c43e470f23878b20416e68f73829dc)
-  - [shokoylele](https://gist.github.com/shokoylele/8f4160a102480471cb946fbd800bc86a)
+To block trackers effectively, you can modify your system's hosts file to redirect Spotify tracking servers to a local or null IP address. This will prevent Spotify from collecting data on your listening habits and other activities. Here's how you can block trackers on Spotify:
 
-## (Un)Known Issues
+1. **Download Hosts File:** Obtain a custom hosts file designed for ad and tracker blocking. You can find various hosts files on GitHub or through internet searches.
+   
+2. **Update Hosts File:** Edit your system's hosts file to include the entries from the custom hosts file you downloaded. This will redirect known ad and tracker domains to a local or null IP address.
 
-- **Ads Still Appearing:** While the hosts file blocks the majority of ads, some may still appear due to the dynamic nature of ad servers. Regular updates are recommended to maintain effectiveness.
+   - **Windows:** Modify `C:\Windows\System32\drivers\etc\hosts`.
+   - **Mac/Linux:** Edit `/etc/hosts` file.
 
-If ads still appear, try to [block these IP's](https://domainwheel.com/how-to-block-an-ip-address/) and see if it resolves the issue:
+3. **Apply Changes:** Save the hosts file and restart your system to apply the changes.
 
-```plaintext
-   194.230.81.136
-   194.230.81.209
-   23.50.108.233
-   194.230.81.144
-   25.224.186.35
-   23.53.42.65
-```
+### Disclaimer
 
-## How to Contribute or Report Issues
-
-If you encounter any issues with the hosts file or if you'd like to contribute to its improvement, please feel free to open an issue on our GitHub repository. Your feedback and contributions are highly valued and appreciated!
-
-## Important Notes
-
-- Make sure to regularly update the hosts file to ensure continued effectiveness against new ads and trackers.
-- Your contributions and feedback are crucial for maintaining and enhancing the functionality of this hosts file.
-- We are completley aware that some ads will still come through, since it is nearly impossible to block all of them.
-- Enjoy your ad-free and privacy-enhanced Spotify experience!
-
-> **This Readme.md is AI-Generated and edited by An0n-00.**
+This repository is provided for educational purposes only and does not guarantee complete ad-blocking or protection against tracking. Use at your own risk. The authors of this repository are not responsible for any damages or issues that may arise from using this method. 
