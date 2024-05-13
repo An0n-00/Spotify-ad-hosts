@@ -1,6 +1,6 @@
 # Spotify Ad and Tracker Blocking Hosts File (2024 Edition)
 
-Welcome to the Spotify ad and tracker blocking hosts file for 2024! Say goodbye to pesky interruptions and data tracking while you enjoy your favorite tunes on Spotify. This hosts file is meticulously curated from various sources to ensure comprehensive ad and tracker blocking.
+Welcome to the Spotify ad and tracker blocking hosts file for 2024! Say goodbye to pesky interruptions and data tracking while you enjoy your favorite tunes on Spotify. The hosts file is meticulously curated from various sources to ensure ad and tracker blocking.
 
 ## What Does This Hosts File Do?
 
@@ -10,10 +10,11 @@ This hosts file blocks ads and trackers within the Spotify application, providin
 
 Follow these steps to apply the hosts file to your system:
 
-1. **Download the Hosts File:** Click on the link provided to download the hosts file to your device.
+0. **_Recomended:_** Close Spotify, if open.
+1. **Download the Hosts File:** Click on [here](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) to download the hosts file to your device.
 2. **Locate the Hosts File:** The hosts file is usually located at:
    - **Windows:** `C:\Windows\System32\drivers\etc\hosts`
-   - **Mac/Linux:** `(mac: private)/etc/hosts` 
+   - **Mac/Linux:** `(mac: private)/etc/hosts`
 3. **Open the Hosts File:** Use a text editor with administrative privileges to open the hosts file.
 4. **Add Hosts Entries:** Copy the contents of the downloaded hosts file and paste them at the end of the hosts file.
 5. **Save Changes:** Save the hosts file and close the text editor.
@@ -22,16 +23,30 @@ Follow these steps to apply the hosts file to your system:
    - **Mac/Linux:** Open Terminal and run `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`.
 7. **Restart Spotify:** Close and reopen the Spotify application to apply the changes.
 
-
 ## Sources
 
-Our hosts file is compiled from multiple reputable sources, including:
+The hosts file is compiled from multiple sources (and updated by me), including:
 
 - Various GitHub Gists (links provided below)
   - [teomaragakis](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2)
   - [Shujito](https://gist.github.com/Shujito/b7a8f8f971b22f49b4313d7d3e8e6931)
   - [rifkyekayama](https://gist.github.com/rifkyekayama/f7c43e470f23878b20416e68f73829dc)
   - [shokoylele](https://gist.github.com/shokoylele/8f4160a102480471cb946fbd800bc86a)
+
+## (Un)Known Issues
+
+- **Ads Still Appearing:** While the hosts file blocks the majority of ads, some may still appear due to the dynamic nature of ad servers. Regular updates are recommended to maintain effectiveness.
+
+If ads still appear, try to [block these IP's](https://domainwheel.com/how-to-block-an-ip-address/) and see if it resolves the issue:
+
+```plaintext
+   194.230.81.136
+   194.230.81.209
+   23.50.108.233
+   194.230.81.144
+   25.224.186.35
+   23.53.42.65
+```
 
 ## How to Contribute or Report Issues
 
@@ -41,11 +56,7 @@ If you encounter any issues with the hosts file or if you'd like to contribute t
 
 - Make sure to regularly update the hosts file to ensure continued effectiveness against new ads and trackers.
 - Your contributions and feedback are crucial for maintaining and enhancing the functionality of this hosts file.
+- We are completley aware that some ads will still come through, since it is nearly impossible to block all of them.
 - Enjoy your ad-free and privacy-enhanced Spotify experience!
 
-Download the hosts file and begin your uninterrupted Spotify journey today!
-
-
-
-
-This is AI-Generated
+> **This Readme.md is AI-Generated and edited by An0n-00.**

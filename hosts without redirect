@@ -1,10 +1,11 @@
-#      _______..______     ______   .___________. __   ___________    ____         ___       _______         __    __    ______        _______.___________.    _______.
-#     /       ||   _  \   /  __  \  |           ||  | |   ____\   \  /   /        /   \     |       \       |  |  |  |  /  __  \      /       |           |   /       |
-#    |   (----`|  |_)  | |  |  |  | `---|  |----`|  | |  |__   \   \/   / ______ /  ^  \    |  .--.  |______|  |__|  | |  |  |  |    |   (----`---|  |----`  |   (----`
-#     \   \    |   ___/  |  |  |  |     |  |     |  | |   __|   \_    _/ |______/  /_\  \   |  |  |  |______|   __   | |  |  |  |     \   \       |  |        \   \    
-# .----)   |   |  |      |  `--'  |     |  |     |  | |  |        |  |         /  _____  \  |  '--'  |      |  |  |  | |  `--'  | .----)   |      |  |    .----)   |   
-# |_______/    | _|       \______/      |__|     |__| |__|        |__|        /__/     \__\ |_______/       |__|  |__|  \______/  |_______/       |__|    |_______/    
-#                                                                                                                                                                      
+#   _____             _   _  __                     _   _    _           _       
+#  / ____|           | | (_)/ _|           /\      | | | |  | |         | |      
+# | (___  _ __   ___ | |_ _| |_ _   _     /  \   __| | | |__| | ___  ___| |_ ___ 
+#  \___ \| '_ \ / _ \| __| |  _| | | |   / /\ \ / _` | |  __  |/ _ \/ __| __/ __|
+#  ____) | |_) | (_) | |_| | | | |_| |  / ____ \ (_| | | |  | | (_) \__ \ |_\__ \
+# |_____/| .__/ \___/ \__|_|_|  \__, | /_/    \_\__,_| |_|  |_|\___/|___/\__|___/
+#        | |                     __/ |                                           
+#        |_|                    |___/
 # https://www.github.com/An0n-00/spotify-ad-hosts
 ###############################################################################################################
 # Spotify's Anti-Adveritsing blocking servers, tricking services to stop music services (DONT BLOCK THESE!):  #
@@ -281,6 +282,7 @@
 255.211.190.35.bc.googleusercontent.com
 255.6.189.35.bc.googleusercontent.com
 26.video-ak.cdn.spotify.com
+2690.dscd.akamaiedge.net
 27.video-ak.cdn.spotify.com
 2793343.fls.doubleclick.net
 28.64.199.104.bc.googleusercontent.com
@@ -405,6 +407,7 @@
 71.video-ak.cdn.spotify.com
 72.video-ak.cdn.spotify.com
 73.140.93.34.bc.googleusercontent.com
+73.akamai-aanp-bsl1.init7.net
 73.video-ak.cdn.spotify.com
 74.60.240.35.bc.googleusercontent.com
 74.video-ak.cdn.spotify.com
@@ -421,6 +424,7 @@
 7d.video-ak.cdn.spotify.com
 7e.video-ak.cdn.spotify.com
 7f.video-ak.cdn.spotify.com
+80.akamai-aanp-bsl1.init7.net
 80.video-ak.cdn.spotify.com
 81.133.80.34.bc.googleusercontent.com
 81.216.199.104.bc.googleusercontent.com
@@ -453,6 +457,7 @@
 92.239.196.35.bc.googleusercontent.com
 92.45.193.35.bc.googleusercontent.com
 92.video-ak.cdn.spotify.com
+92-123-27-58.deploy.static.akamaitechnologies.com
 93.video-ak.cdn.spotify.com
 94.video-ak.cdn.spotify.com
 95.102.245.35.bc.googleusercontent.com
@@ -473,17 +478,31 @@ a0.video-ak.cdn.spotify.com
 a1.video-ak.cdn.spotify.com
 a1197.dscc.akamai.net
 a1294.w20.akamai.net
+a1520.dscc.akamai.net
+a1520.dscc.akamai.net.0.1.cn.akamaitech.net
 a1599.g.akamai.net
 a1767.g.akamai.net
 a1813.dscd.akamai.net
 a1843.g.akamai.net
+a1894.dscb.akamai.net
+a1894.dscms.akamai.net
 a19.g.akamai.net
+a1939.dscc.akamai.net
 a1961.g2.akamai.net
 a1992.dscd.akamai.net
 a2.video-ak.cdn.spotify.com
 a2-19-66-11.deploy.static.akamaitechnologies.com
+a23-211-6-99.deploy.static.akamaitechnologies.com   
+a23-212-193-149.deploy.static.akamaitechnologies.com
+a23-212-193-149.deploy.static.akamaitechnologies.com
+a23-212-193-20.deploy.static.akamaitechnologies.com
 a23-212-217-142.deploy.static.akamaitechnologies.com
+a23-36-224-225.deploy.static.akamaitechnologies.com 
 a23-45-105-248.deploy.static.akamaitechnologies.com
+a23-53-42-64.deploy.static.akamaitechnologies.com
+a23-53-42-64.deploy.static.akamaitechnologies.com
+a23-53-42-65.deploy.static.akamaitechnologies.com
+a23-53-42-65.deploy.static.akamaitechnologies.com
 a23-54-114-17.deploy.static.akamaitechnologies.com
 a23-54-115-202.deploy.static.akamaitechnologies.com
 a297.c.akamai.net
@@ -500,6 +519,8 @@ a72-246-28-95.deploy.static.akamaitechnologies.com
 a8.video-ak.cdn.spotify.com
 a88-221-144-210.deploy.static.akamaitechnologies.com
 a9.video-ak.cdn.spotify.com
+a92-123-27-105.deploy.static.akamaitechnologies.com 
+a92-123-27-145.deploy.static.akamaitechnologies.com
 aa.video-ak.cdn.spotify.com
 ab.tune.com
 ab.video-ak.cdn.spotify.com
@@ -539,6 +560,8 @@ adclick.g.doubleclick.net
 ade.googlesyndication.com
 ad-emea.doubleclick.net
 adeventtracker.spotify.com
+adeventtrackermonitoring.spotify.com
+adeventtrackermonitoring.spotify.com
 ad-g.doubleclick.net
 adgen.spotify.com
 adgen-dev.spotify.com
@@ -1402,6 +1425,8 @@ exnjadgds1.doubleclick.net
 exnjmdgda1.doubleclick.net
 exnjmdgds1.doubleclick.net
 exp.spotify.com
+exp.wg.spotify.com
+exp.wg.spotify.com
 f.admob.com
 f0.video-ak.cdn.spotify.com
 f03.smaato.net
@@ -1535,6 +1560,10 @@ fra163.ib.adnxs.com
 fra164.ib.adnxs.com
 fra165.ib.adnxs.com
 fra168.ib.adnxs.com
+fra16s42-in-f4.1e100.net
+fra16s42-in-f4.1e100.net
+fra16s49-in-f10.1e100.net
+fra16s49-in-f10.1e100.net
 fra170.ib.adnxs.com
 fra171.ib.adnxs.com
 fra172.ib.adnxs.com
@@ -1878,6 +1907,8 @@ gew1-accesspoint-b-dz71.ap.spotify.com
 gew1-accesspoint-b-n2b0.ap.spotify.com
 gew1-accesspoint-b-p520.ap.spotify.com
 gew1-accesspoint-b-zg10.ap.spotify.com
+gew4-spclient.spotify.com
+gew4-spclient.spotify.com
 gnmcuaacaakmol2pahcs6t6saqaaaxilqdanemmjxrjasaaaahj6dya3aaaaa7y.b77xacaawaajqbvhcmj4xxlnohivrgm2ur2d4k2jpejuxcbi.a.j.e5.sk
 go.scdn.co
 googleadapis.l.google.com
@@ -2491,6 +2522,8 @@ ns5.dynamicnetworkservices.net
 ns6.dynamicnetworkservices.net
 ns7.dynamicnetworkservices.net
 o.admob.com
+o22381.ingest.sentry.io
+o22381.ingest.sentry.io
 omaze.com
 omccuaacaakmkd2oahbq6twsaqaaaxilqdanemmjxrjasaaaaextjyq3aaaab7k.ciubqcaawaajqbrhq23raq4c2k3ywe2lj2xsp2wyxo2wgoaa.a.j.e5.sk
 o-o.preferred.kazakhtel-tse1.v1.lscache3.c.2mdn.net
