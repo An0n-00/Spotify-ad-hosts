@@ -2,12 +2,10 @@
 
 > [!WARNING]  
 > Important Notice: This repository is no longer maintained and the Spotify ad-blocking method described here is no longer functional.
-> For a working solution, check out [SpotifyAB](https://github.com/An0n-00/SpotifyAB)
-
-
-## Alternative Solution
-
-For those seeking to block ads on Spotify, I recommend using [SpotifyAB](https://www.github.com/An0n-00/SpotifyAB). This repository provides an updated and effective method for blocking ads on Spotify by injecting JavaScript code into the Spotify desktop app. More information and instructions can be found on the [SpotifyAB](https://www.github.com/An0n-00/SpotifyAB) repository.
+>
+> ## Alternative Solution
+>
+> For those seeking to block ads on Spotify, I recommend using [SpotifyAB](https://www.github.com/An0n-00/SpotifyAB). This repository provides an updated and effective method for blocking ads on Spotify by injecting JavaScript code into the Spotify desktop app. More information and instructions can be found on the [SpotifyAB](https://www.github.com/An0n-00/SpotifyAB) repository.
 
 ---
 
