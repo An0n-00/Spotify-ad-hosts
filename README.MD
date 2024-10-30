@@ -2,6 +2,7 @@
 
 > [!WARNING]  
 > Important Notice: This repository is no longer maintained and the Spotify ad-blocking method described here is no longer functional.
+> For a working solution, check out [SpotifyAB](https://github.com/An0n-00/SpotifyAB)
 
 
 ## Alternative Solution
